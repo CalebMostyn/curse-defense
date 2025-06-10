@@ -1,5 +1,5 @@
 # 2025 Caleb Mostyn
 
-import os
+from curse_defense.backdoor_fed.models import SimpleNet
 
 # sample script
