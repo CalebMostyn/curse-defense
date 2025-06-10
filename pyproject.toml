@@ -8,7 +8,8 @@ license = {text = "MIT"}
 # requires-python = ""
 
 dependencies = [
-    
+    "torch",
+    "numpy"
 ]
 
 [build-system]
