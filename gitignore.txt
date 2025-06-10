@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Model files
+*.ckpt
+*.pth
+*.pt
+*.pb
+*.onnx
+*.joblib
+*.pkl
+*.sav
+
+# Logs
+*.log
+logs/
+wandb/
+
+# Output files
+__output__/
+results/
+checkpoints/
+
+# Colab outputs
+*.out
+
+# Cached Data from Dataset
+cache/
+.ruff_cache
+
+# docs
+doc/_build
+doc/_static
+
+# data files
+data/*
+
+# pipfile lock
+Pipfile.lock
+
+!.gitkeep
+!data/thinning/.gitkeep
+!data/checkpoint/.gitkeep
