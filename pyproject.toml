@@ -1,0 +1,16 @@
+[project]
+name = "curse-defense"
+version = "0.1.0"
+description = "Federated Backdoor Attack Defense Scheme Using Model Inversion Attacks"
+authors = [{ name="Caleb Mostyn", email="mostyncr@miamioh.edu" }]
+readme = "README.md"
+license = {text = "MIT"}
+# requires-python = ""
+
+dependencies = [
+    
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
